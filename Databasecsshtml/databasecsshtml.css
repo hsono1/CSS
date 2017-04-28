@@ -1,0 +1,226 @@
+.wrapper
+{
+	width: 970px;
+	height: 900px;
+	background: linear-gradient(indigo, darkorchid, indigo);
+
+
+
+}
+
+.block1
+{
+	background-color: lightgrey;
+	width: 970px;
+	height: 90px;
+
+
+
+}
+.block1 img
+{
+	width: 150px;
+	height: 80px;
+	display: inline-block;
+
+
+}
+.block1 h3
+{
+
+	display: inline-block;
+	vertical-align: top;
+	text-indent: 450px;
+	line-height: 70px;
+
+
+
+}
+
+
+table
+{
+	background-color: lightgrey;
+	width: 970px;
+	border-collapse: collapse;
+
+}
+
+table td
+{
+	width: 70px;
+	border: 1px solid black;
+	text-align: center;
+
+}
+
+table a
+{
+	color: blue;
+}
+
+.block3
+{
+	width: 940px;
+	height: 700px;
+	display: block;
+	margin: 20px;
+
+
+
+
+
+}
+
+
+.block3 img
+{
+	display: inline-block;
+	width: 450px;
+	height: 250px;
+	border: 5px solid lightgrey;
+	vertical-align: top;
+
+
+
+}
+
+.block3-1
+{
+	width: 450px;
+	height: 260px;
+	display: inline-block;
+	background-color: lightgrey;
+	margin-left: 20px;
+
+
+
+
+}
+
+.block3-1 h4
+{
+	width: 100%;
+	height: 40px;
+	background: linear-gradient(lightgrey, darkgrey, lightgrey);
+	margin-top: 0px;
+	text-indent: 10px;
+	line-height: 40px;
+	margin-bottom: 0px;
+}
+
+.block3-1 h6
+{
+	margin-top: 10px;
+	text-indent: 10px;
+	font-size: 13px;
+
+
+}
+
+.block3-1 p
+{
+	font-size: 13px;
+	margin-left: 10px;
+
+}
+
+
+.block4 img
+{
+	width: 20px;
+	height: 20px;
+	border: 0px;
+	display: inline-block;
+	margin-left: 750px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+.block4 h5
+{
+
+	font-size: 13px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 0px;
+	line-height: 40px;
+	margin-bottom: 0px;
+}
+
+
+.block4-2 
+{
+	height: 400px;
+	width: 215.5px;
+	background-color: pink;
+	display:inline-block;
+	margin-right: 20px;
+	margin-top: 0px;
+	vertical-align: top;
+	background:  linear-gradient(lightsteelblue, lightgrey);
+
+}
+
+.block4-2 h4
+{
+	width: 100%;
+	height: 40px;
+	background: linear-gradient(lightgrey, darkgrey, lightgrey);
+	margin-top: 0px;
+	text-indent: 10px;
+	line-height: 40px;
+	margin-bottom: 0px;
+
+
+}
+
+.block4-2 img
+{
+	width: 100%;
+	height: 100px;
+	margin-left: 0px;
+	margin-top: 0px;	
+}
+
+.block4-2 p
+{
+	font-size: 13px;
+	margin-left: 10px;
+
+}
+.block4-2 button
+{
+	background-color: steelblue;
+	color: white;
+	border: 3px solid black;
+	font-size: 10px;
+	border-radius: 5px;
+	margin-top: 50px;
+	box-shadow: 0px 2px 5px black;
+	margin-left: 120px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
